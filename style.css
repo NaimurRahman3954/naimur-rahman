@@ -87,9 +87,12 @@ a{
 
 
 /* Media Query */
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 768px) {
    h3{
-      font-size: 1.5rem;
+      font-size: 1.3rem;
+   }
+   body{
+      font-size: 0.7rem;
    }
    section{
       width: 80vw;
